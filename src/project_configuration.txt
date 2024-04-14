@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=gradle-project&language=java&platformVersion=3.2.4&packaging=jar&jvmVersion=21&groupId=my.project&artifactId=library&name=library&description=library&packageName=my.project.library&dependencies=web,h2,data-jpa,data-jpa,lombok
